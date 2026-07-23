@@ -1,4 +1,4 @@
-## ❤️ Heart Disease Prediction System
+## ❤️ CardioPredict - Heart Disease Prediction System
 
 A Machine Learning-powered web application that predicts the likelihood of heart disease based on patient health parameters. The project includes data analysis, model comparison, model training, and an interactive Streamlit application for real-time predictions.
 
